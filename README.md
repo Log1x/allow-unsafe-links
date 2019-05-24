@@ -14,4 +14,4 @@ Once activated, you're good to go. For existing posts, you will need to go throu
 
 ## License
 
-Allow Unsafe Links is provided under the MIT License.
+Allow Unsafe Links is provided under the [MIT License](https://github.com/Log1x/allow-unsafe-links/blob/master/LICENSE.md).
