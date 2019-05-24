@@ -19,7 +19,7 @@ $ composer require log1x/allow-unsafe-links
 
 ### Manually
 
-[Download](https://github.com/log1x/allow-unsafe-links/archive/v1.0.0.zip) and install the plugin as you would any other WordPress plugin.
+[Download](https://github.com/log1x/allow-unsafe-links/archive/v1.0.1.zip) and install the plugin as you would any other WordPress plugin.
 
 ## Usage
 

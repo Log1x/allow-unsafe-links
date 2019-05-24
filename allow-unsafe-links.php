@@ -3,7 +3,7 @@
  * Plugin Name: Allow Unsafe Links
  * Plugin URI:  https://github.com/log1x/allow-unsafe-links
  * Description: Prevents WordPress from automatically adding noopener and noreferrer to outbound links.
- * Version:     1.0.0
+ * Version:     1.0.1
  * Author:      Brandon Nifong
  * Author URI:  https://github.com/log1x
  *
