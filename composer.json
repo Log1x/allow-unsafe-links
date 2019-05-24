@@ -1,0 +1,12 @@
+{
+    "name": "log1x/allow-unsafe-links",
+    "description": "Prevents WordPress from automatically adding noopener and noreferrer to outbound links.",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brandon",
+            "email": "brandon@tendency.me"
+        }
+    ]
+}
